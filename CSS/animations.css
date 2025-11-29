@@ -13,7 +13,7 @@ body{
     height: 100vh;
 }
 
-@-o-keyframes audio-wave{
+@keyframes audio-wave{
     0%{
         height: 6px;
         transform: translateY(0px);
